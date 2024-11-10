@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MK-COMPUTING
+- 👋 Hi, I go by the name of @MK-COMPUTING
 - 👀 I’m interested in DEV FULL STACK & NETWORKING SYSTEM SECURITY
 - 🌱 I’m currently learning DJANGO PYTHON LANGUAGE 
 - 💞️ I’m looking to collaborate With EVERYBODY in EVERYWHERE within EVERYTHING
